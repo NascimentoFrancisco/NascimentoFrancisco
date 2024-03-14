@@ -1,4 +1,4 @@
-## Hello, I'm Francisco Nascimento, I'm a back-end developer and Flutter enthusiast for mobile.
+## Hello, I'm Francisco Nascimento, I'm a software developer, with a greater affinity for back-end development.
 <div align="center">
   <a href="https://github.com/NascimentoFrancisco">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NascimentoFrancisco&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -10,6 +10,8 @@
   <img align="center" alt="Francisco-fluter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   <img align="center" alt="Francisco-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">  
   <img align="center" alt="Francisco-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Francisco-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Francisco-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
   
   ##
